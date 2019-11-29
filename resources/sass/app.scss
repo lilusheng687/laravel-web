@@ -1,1 +1,13 @@
-//
+// Variables
+@import 'variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+body {
+    font-size: 14px;
+    font-family: normal;
+}
+
+nav.navbar.navbar-expand-lg {
+    margin-bottom: 20px;
+}
